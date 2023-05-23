@@ -19,3 +19,13 @@
 ```git pull```
 * lấy mã từ từ origin về local
 
+```Lưu ý khi sử lý conflict```
+* những gì nằm trong block
+<<<<<<< HEAD
+.... của mình
+=======
+
+* những gì nằm trong block
+=======
+.... của partner
+>>>>>>> b44aa3232af44747001f53ed6d1ad6fff625b98d

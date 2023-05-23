@@ -1,8 +1,14 @@
 *{
     box-sizing: border-box;
+    padding: auto;
+    margin: 0;
 }
 
 .btn{
     border-radius: 5px;
     padding: 20px 10px;
+}
+
+p {
+    color: blue;
 }
