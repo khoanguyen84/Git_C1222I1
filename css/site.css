@@ -1,3 +1,8 @@
 *{
     box-sizing: border-box;
 }
+
+.btn{
+    border-radius: 5px;
+    padding: 20px 10px;
+}
