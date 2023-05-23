@@ -7,3 +7,6 @@
 * git branch <branch_name>: ví dụ: git branch development
 * git checkout <branch_name>: ví dụ: git checkout development
 
+```Đồng nhánh mới từ local lên remote```
+* git push -u origin <branch_name> ví dụ: git push -u origin development
+
